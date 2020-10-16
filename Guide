@@ -18,7 +18,7 @@ Apply - 재현 가능한 인프라를 프로비저닝합니다.
 [Write]
 다음 편집기에서 코드를 작성하는 것과 마찬가지로 Terraform 구성을 씁니다. 작업을 제어된 버전에 저장하는 것은 일반적인 관례입니다. 개인으로 운영되는 경우에도 리포지토리를 사용할 수 있습니다.
 
-# Create repository
+# Create repository 
 $ git init my-infra && cd my-infra
 
 Initialized empty Git repository in /.../my-infra/.git/
